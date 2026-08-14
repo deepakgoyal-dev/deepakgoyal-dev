@@ -75,16 +75,4 @@ Second-year **B.Tech Computer Science** student at **Maharaja Agrasen Institute 
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=deepakgoyal-dev&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakgoyal-dev&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakgoyal-dev&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 <p align="center">📫 Reach me at <a href="mailto:dg6663291@gmail.com">dg6663291@gmail.com</a> — always happy to talk Python, data, and AI.</p>
