@@ -1,4 +1,3 @@
-## Hi there 
 <h1 align="center">DEEPAK GOYAL</h1>
 <p align="center">Python Developer &bull; Data Engineering Enthusiast &bull; Aspiring AI Engineer</p>
 
